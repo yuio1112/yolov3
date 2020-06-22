@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="22c2c93c-143f-48dd-aa26-d2dbe33806c8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ProjectId" id="1dU70AoTa5YumbUYL0N0ksuQOMP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Python.predict">
+    <configuration name="predict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="yolo-gpu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/predict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="yolo-gpu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="video" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="yolo-gpu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/video.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="yolo3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="yolo-gpu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nets" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nets/yolo3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.predict" />
+        <item itemvalue="Python.train" />
+        <item itemvalue="Python.video" />
+        <item itemvalue="Python.yolo3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22c2c93c-143f-48dd-aa26-d2dbe33806c8" name="Default Changelist" comment="" />
+      <created>1592642294872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592642294872</updated>
+      <workItem from="1592642296180" duration="514000" />
+      <workItem from="1592643388514" duration="21231000" />
+      <workItem from="1592700975504" duration="16352000" />
+      <workItem from="1592723098866" duration="7768000" />
+      <workItem from="1592736326238" duration="1867000" />
+      <workItem from="1592739051668" duration="883000" />
+      <workItem from="1592741040367" duration="1507000" />
+      <workItem from="1592743741725" duration="203000" />
+      <workItem from="1592743977058" duration="28000" />
+      <workItem from="1592744388350" duration="78000" />
+      <workItem from="1592752821434" duration="369000" />
+      <workItem from="1592754192062" duration="81000" />
+      <workItem from="1592754288219" duration="235000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="219" key="FileChooserDialogImpl" timestamp="1592743989915">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="549" y="219" key="FileChooserDialogImpl/0.40.1536.824/1920.40.1920.1040@0.40.1536.824" timestamp="1592743989915" />
+    <state width="1493" height="168" key="GridCell.Tab.0.bottom" timestamp="1592754524271">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="1493" height="168" key="GridCell.Tab.0.bottom/0.40.1536.824/1920.40.1920.1040@0.40.1536.824" timestamp="1592744465945" />
+    <state width="1493" height="168" key="GridCell.Tab.0.bottom/0.40.1536.824@0.40.1536.824" timestamp="1592754524271" />
+    <state width="1493" height="168" key="GridCell.Tab.0.center" timestamp="1592754524271">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="1493" height="168" key="GridCell.Tab.0.center/0.40.1536.824/1920.40.1920.1040@0.40.1536.824" timestamp="1592744465945" />
+    <state width="1493" height="168" key="GridCell.Tab.0.center/0.40.1536.824@0.40.1536.824" timestamp="1592754524271" />
+    <state width="1493" height="168" key="GridCell.Tab.0.left" timestamp="1592754524271">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="1493" height="168" key="GridCell.Tab.0.left/0.40.1536.824/1920.40.1920.1040@0.40.1536.824" timestamp="1592744465945" />
+    <state width="1493" height="168" key="GridCell.Tab.0.left/0.40.1536.824@0.40.1536.824" timestamp="1592754524271" />
+    <state width="1493" height="168" key="GridCell.Tab.0.right" timestamp="1592754524271">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="1493" height="168" key="GridCell.Tab.0.right/0.40.1536.824/1920.40.1920.1040@0.40.1536.824" timestamp="1592744465945" />
+    <state width="1493" height="168" key="GridCell.Tab.0.right/0.40.1536.824@0.40.1536.824" timestamp="1592754524271" />
+    <state x="449" y="288" key="com.intellij.ide.util.TipDialog" timestamp="1592754292672">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="449" y="288" key="com.intellij.ide.util.TipDialog/0.40.1536.824/1920.40.1920.1040@0.40.1536.824" timestamp="1592743977239" />
+    <state x="449" y="288" key="com.intellij.ide.util.TipDialog/0.40.1536.824@0.40.1536.824" timestamp="1592754292672" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/yolo_gpu$train.coverage" NAME="train Coverage Results" MODIFIED="1592741053269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolo_gpu$yolo3.coverage" NAME="yolo3 Coverage Results" MODIFIED="1592651148036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets" />
+    <SUITE FILE_PATH="coverage/yolo_gpu$video.coverage" NAME="video Coverage Results" MODIFIED="1592739342888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolo_gpu$predict.coverage" NAME="predict Coverage Results" MODIFIED="1592754300850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
